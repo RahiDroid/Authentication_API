@@ -46,6 +46,7 @@ For example calls to the API using AJAX, please refer [main.js file in front-end
 - `message`: *Message from API indicating the success/failure of the operation*
 - `data`: *response data in JSON format*
 
-> **Notes:** 
+
+**Notes:** 
 > - *Response might be different for different operation. Displayed above is the response when you request all users' data from the API*
 > - *On registering a new user, the API response contains an unique 'id' field for that user which you will want to store associated with that user for future user specific interaction with the API*
